@@ -1,0 +1,6 @@
+title: MetaAI — Self-Evolving AI System
+description: A 15-layer loop engine that continuously improves itself through reflection and skill extraction
+show_downloads: true
+google_analytics:
+future: true
+permalink: /:title/
